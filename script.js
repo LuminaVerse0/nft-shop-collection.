@@ -21,7 +21,7 @@ async function buyNft() {
     alert("Please connect your wallet first.");
     return;
   }
-  // Example transaction (replace with your NFT contract)
+  // 🚨 Replace with your smart contract interaction
   alert("This would trigger NFT minting or purchase from your smart contract.");
 }
 
